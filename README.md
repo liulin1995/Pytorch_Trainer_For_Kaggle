@@ -46,11 +46,11 @@ Pytorch_Trainer/
 
 Used to load train/val/test images. It consists of three part: ImageTransform, ImageLoader, ImageDataset. 
 
-In ImageTransform, some image transforms are defined. They are used for the data augement to avoid the overfeating.
+In ImageTransform, some image transforms are defined. They are used for data augement to avoid the overfeating.
 
- The ImageDataset is used to determing the img url of the training dataset and testing dataset.
+ The ImageDataset is used to determine the image path of the training dataset and testing dataset.
 
-Te ImageLoader is used to load the picture from the url from dataset.
+Te ImageLoader is used to load the image in the path provided by dataset.
 
 ### Ensemble package:
 
@@ -93,7 +93,7 @@ Some other features like freeze_model, unfreeze_model will be included.
 
 ### Utils
 
-Utils has some utils tools.
+Utils has some useful tools, like compute image means, std.
 
 ### Root package
 
