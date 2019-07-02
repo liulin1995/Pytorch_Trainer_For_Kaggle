@@ -1,6 +1,6 @@
 # Pytorch Trainer For Kaggle
 
-This repository comes from my codes for the "iMaterialist Challenge on Product Recognition" competion. Now it still has many shortcomings and is full of personal style.  I will continue to improve it, and hope you can find some useful information here.
+This repository comes from my codes for the "iMaterialist Challenge on Product Recognition" competition. Now it still has many shortcomings and is full of personal style.  I will continue to improve it, and hope you can find some useful information here.
 
 ## The Organization
 
